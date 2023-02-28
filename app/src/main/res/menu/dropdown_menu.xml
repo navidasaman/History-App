@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.assignment5project.MainActivity">
+
+    <item
+        android:id="@+id/home_page"
+        android:orderInCategory="100"
+        android:title="@string/home_page"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/about_page"
+        android:orderInCategory="110"
+        android:title="@string/about_page"
+        app:showAsAction="never" />
+
+</menu>
+
+
+

@@ -1,6 +1,3 @@
-# History-App
-History application made in Java to increase knowledge about the wonders of the world.
-
 **Report**
 
 
@@ -106,8 +103,8 @@ Following code enabled webview settings and loaded the internal page.
             }
         });
  ```
- 
-![image](https://user-images.githubusercontent.com/119083568/221798629-07724c44-0f3a-4287-96db-3bd2b8e72710.png)
+
+ ![](4About.png)
  __Image 1: Displays the about page.___
 
 5. linked edittext with a newly created activity
@@ -137,7 +134,7 @@ with the id enter_button which started the SecondActivity.
             }
         });
 ```
-![image](https://user-images.githubusercontent.com/119083568/221798868-08f5302e-4c83-48fd-8e61-aaec29e425f3.png)
+![](1.png)
 __Image 2: First page__
 
 The string was then received by SecondActivity which displayed Welcome, __inserted name__!
@@ -145,11 +142,11 @@ The user was then given three options through a series of created buttons which 
 the main page with the listview, to the about page and one which returned to home page.
 All homepage buttons were executed using finish(); to not stack the screens on top of each other.
 
-![image](https://user-images.githubusercontent.com/119083568/221798950-994cf15e-0f70-4953-8597-f4e458232b85.png)
+![](2.png)
 __Image 3: Sending of string.__
 
 
-![image](https://user-images.githubusercontent.com/119083568/221798985-22414e98-ebb8-43fa-93bc-f01b4653aab0.png)
+![](Welcome.png)
 __Image 4: Displays the sent string.__
 
 
@@ -215,7 +212,7 @@ This textview was linked to the listview by following code:
         });
   ```
 
-  ![image](https://user-images.githubusercontent.com/119083568/221799124-f7a8cb09-0d24-41bc-9e6e-507c00e9cf29.png)
+  ![](6showWonder2.png)
   __Image 5: Demonstrates the click of the first wonder.__
 
   Different components were tried and added. A Snackbar was used at last, which displayed the
@@ -374,7 +371,7 @@ which included all the data from fetchAllWonders();.
     }
 ```
 
-![image](https://user-images.githubusercontent.com/119083568/221799203-102e3745-a1cb-43bd-9e8e-24d4205a3eda.png)
+![](7CityFilter.png)
 __Image 6: Displays when filtered by cities.__
 
 
