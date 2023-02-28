@@ -107,7 +107,7 @@ Following code enabled webview settings and loaded the internal page.
         });
  ```
  
-![image](https://user-images.githubusercontent.com/119083568/221798629-07724c44-0f3a-4287-96db-3bd2b8e72710.png)
+![image](https://user-images.githubusercontent.com/119083568/221798629-07724c44-0f3a-4287-96db-3bd2b8e72710.png width="200" height="400")
  __Image 1: Displays the about page.___
 
 5. linked edittext with a newly created activity
